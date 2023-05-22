@@ -9,7 +9,7 @@ The overarching objective of this project is to develop a machine learning-based
 
 
 ## [River Discharge](https://github.com/smwalsh7502/ML_RedTide/blob/main/River_Outflow/RIver_Outflow.ipynb)
-Data sourced from [USGS.gov](https://waterdata.usgs.gov/nwis).
+Data sourced from [USGS.gov](https://waterdata.usgs.gov/nwis)
 
 In this portion, the data was gathered for nine rivers total along the south west Florida shelf. 
 USGS River Stations Included:
