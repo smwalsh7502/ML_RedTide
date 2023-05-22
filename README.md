@@ -1,4 +1,4 @@
-# ML_RedTide
+# RedTide Machine Learning
 
 Harmful algal blooms are prevalent issue in marine and freshwaters around the world, causing damage to both ecosystem health and human health. 
 The toxic dinoflagellate Karenia brevis has caused significant economic damage along the West Florida coast in recent years. 
