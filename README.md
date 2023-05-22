@@ -25,7 +25,7 @@ USGS River Stations Included:
 
 Rivers were organized by size and the weekly average discharge was plotted over time with large rivers in one graph and small rivers on another. 
 
-<img width="600" alt="image" src="https://github.com/smwalsh7502/ML_RedTide/assets/90478060/6cc62cee-e5c2-45a9-a476-4209eb5f081c">
+<img width="1000" alt="image" src="https://github.com/smwalsh7502/ML_RedTide/assets/90478060/6cc62cee-e5c2-45a9-a476-4209eb5f081c">
 
 
 Later, we will analyze this collected data to assess wether or not there is a correlation between river discharge and appearance of red tide.
