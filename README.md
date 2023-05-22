@@ -8,5 +8,20 @@ As a research assistant, I will be working to develop a Red tide water quality M
 The overarching objective of this project is to develop a machine learning-based tool for predicting red tide in the Gulf of Mexico along the West Florida Shelf. 
 
 
-I will have the opportunity to explore the impact of various factors on these blooms, including upwelling, and wind speed and direction.
-Additionally, I will investigate the role of Chattahoochee River and Peace River flow, and the nutrients they supply in regulating these algal blooms.
+## [River Discharge](https://github.com/smwalsh7502/ML_RedTide/blob/main/River_Outflow/RIver_Outflow.ipynb)
+Data sourced from [USGS.gov](https://waterdata.usgs.gov/nwis).
+
+In this portion, the data was gathered for nine rivers total along the south west Florida shelf. 
+USGS River Stations Included:
+* Tampa Bay (USGS 2306647)
+* Peace River (USGS 2296750)
+* Lake Okeechobee (USGS 2274325)
+* Suwanee River (USGS 2323500)
+* Withlacoochee River (USGS 2319000)
+* Hillsborough River (USGS 2303330)
+* Little Manatee River (USGS 2300500)
+* Myakka River (USGS 2298830)
+* Caloosahatchee Canal (USGS 2292000).
+
+Rivers were organized by size and the weekly average discharge was plotted over time with large rivers in one graph and small rivers on another.
+
