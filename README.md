@@ -8,7 +8,7 @@ As a research assistant, I will be working to develop a Red tide water quality M
 The overarching objective of this project is to develop a machine learning-based tool for predicting red tide in the Gulf of Mexico along the West Florida Shelf. 
 
 <details>
-<summary> 
+<summary style="display: list-item; list-style-type: none;"> 
   <h2>River Discharge](https://github.com/smwalsh7502/ML_RedTide/blob/main/River_Outflow/RIver_Outflow.ipynb)</h2>
 </summary>
 Data sourced from [USGS.gov](https://waterdata.usgs.gov/nwis)
