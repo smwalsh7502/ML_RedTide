@@ -7,11 +7,9 @@ The toxic dinoflagellate Karenia brevis has caused significant economic damage a
 As a research assistant, I will be working to develop a Red tide water quality Management Application (REMApp). 
 The overarching objective of this project is to develop a machine learning-based tool for predicting red tide in the Gulf of Mexico along the West Florida Shelf. 
 
-<details>
+<details open>
 <summary style="display: list-item; list-style-type: none;"> 
-   <a href="https://github.com/smwalsh7502/ML_RedTide/blob/main/River_Outflow/RIver_Outflow.ipynb">
-      <h2>River Discharge</h2>
-   </a>
+    <h2>River Discharge</h2>
 </summary>
 Data sourced from [USGS.gov](https://waterdata.usgs.gov/nwis)
 
