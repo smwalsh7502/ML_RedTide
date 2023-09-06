@@ -9,7 +9,7 @@ The overarching objective of this project is to develop a machine learning-based
 
 <details>
 <summary style="display: list-item; list-style-type: none;"> 
-   <a href="https://github.com/smwalsh7502/ML_RedTide/blob/main/River_Outflow/RIver_Outflow.ipynb" target="_blank">
+   <a href="https://github.com/smwalsh7502/ML_RedTide/blob/main/River_Outflow/RIver_Outflow.ipynb">
       <h2>River Discharge</h2>
    </a>
 </summary>
